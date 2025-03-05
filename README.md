@@ -1,6 +1,6 @@
 # D3.js Data Visualization 📊
 
-**Live Demo:** [View Project](https://astronil.github.io/D3js/patterns.html)
+**Live Demo:** [View Project](https://astronil.github.io/D3js/)
 
 ## 📌 Overview
 
