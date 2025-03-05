@@ -1,6 +1,6 @@
 # D3.js Data Visualization 📊
 
-**Live Demo:** [View Project](https://Astronil/github.io/D3js)
+**Live Demo:** [View Project](https://astronil.github.io/D3js/patterns.html)
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ This project uses **D3.js** to create interactive and dynamic data visualization
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/D3js.git
+   git clone https://github.com/Astronil/D3js.git
    ```
 
 2. Open index.html in a browser.
